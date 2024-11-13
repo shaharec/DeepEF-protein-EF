@@ -25,9 +25,3 @@ DeepEF operates using synthetic data generated based on corollaries of the therm
 ### Significance
 To our knowledge, DeepEF is the first model to incorporate thermodynamic principles as a foundation for protein stability prediction, marking a significant step towards physics-inspired deep learning models in structural biology. Its design enables it to predict stability outcomes beyond the training domain, providing an innovative tool for protein engineering, variant stability assessment, and structural biology research.
 
-### Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/shaharec/DeepEF-protein-EF.git
-   cd DeepEF-protein-EF
